@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial/2 - Pickle Rick.md",
+                "file": "Primer Examen Parcial/1 - Bolt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Pickle Rick"
+              "title": "1 - Bolt"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial/3 - Ignite.md",
+                "file": "Primer Examen Parcial/4 - Hydra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Ignite"
+              "title": "4 - Hydra"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "4 - Hydra"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,13 +212,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f4c24bbe22bc5c34",
+  "active": "f0572267745751a7",
   "lastOpenFiles": [
+    "Primer Examen Parcial/3 - Ignite.md",
+    "Primer Examen Parcial/4 - Hydra.md",
+    "Primer Examen Parcial/2 - Pickle Rick.md",
     "Primer Examen Parcial/1 - Bolt.md",
     "Sin título.md",
-    "Primer Examen Parcial/2 - Pickle Rick.md",
-    "Primer Examen Parcial/4 - Hydra.md",
-    "Primer Examen Parcial/3 - Ignite.md",
     "README.md",
     "Primer Examen Parcial",
     "Bienvenido.md"
